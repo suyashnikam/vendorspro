@@ -1,2 +1,2 @@
 # vendorspro
-Vendor and customer managment software
+Vendor and customer managment software developement 
